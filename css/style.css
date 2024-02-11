@@ -106,8 +106,11 @@ h1 {
     text-align: center;
     color: var(--navy-blue);
 }
-.footeer{
+.footer{
   background-color: var(--navy-blue);
+}
+.footer .logo-span{
+  color: var(--cloud);
 }
 .footer-text {
     line-height: 150%;
